@@ -1,0 +1,14 @@
+.guarantee{
+  border-color:green;
+  border-width: 1px;
+  border-style: solid;
+  background-color: blue;
+  padding: 25px;
+  margin: 30px;
+  background-image: url(images/background.gif);
+  line-height: 1.9em;
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-repeat: no-repeat;
+  background-position: left top;
+}
